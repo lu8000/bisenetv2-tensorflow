@@ -1,6 +1,5 @@
 six
 tensorrt
-pycuda
 loguru
 tqdm
 numpy
